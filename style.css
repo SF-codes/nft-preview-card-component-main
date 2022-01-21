@@ -69,6 +69,7 @@ body {
   top: 0;
   left: 0;
   background-color: var(--eyebg);
+  cursor: pointer;
   border-radius: 10px;
   opacity: 0;
   transition: all 0.5s ease-out;
@@ -79,8 +80,12 @@ body {
 }
 
 /* h1 and paragraph */
+.paragraph {
+  margin-left: -15px;
+}
 
 .paragraph h1 {
+  width: 100%;
   color: var(--white);
   font-weight: 600;
   padding: 1.1rem 0.9rem;
@@ -104,6 +109,7 @@ body {
 .container .card .time-left {
   display: flex;
   justify-content: space-between;
+  margin-left: -14px;
 }
 
 .container .card .time-left p:first-child {
