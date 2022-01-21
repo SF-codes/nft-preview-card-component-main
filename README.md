@@ -1,3 +1,7 @@
+### Screenshot
+![Screenshot 2022-01-20 at 21-36-32 Frontend Mentor NFT preview card component](https://user-images.githubusercontent.com/82302032/150457234-77df6982-eb7c-4ab1-ad20-22d6f97f2afa.png)
+
+
 ### Links
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
