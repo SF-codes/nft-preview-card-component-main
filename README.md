@@ -4,7 +4,7 @@
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-nft-card-w-flexbox-pseudoclasses-etc-no-css-framework-mqZblpHNK
 - Live Site URL: https://sf-codes.github.io/nft-preview-card-component-main/
 
 ## My process
