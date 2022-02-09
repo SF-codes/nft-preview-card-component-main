@@ -9,7 +9,7 @@
 
 ## My process
 
-My game plam was first and foremost setting up HTML, and :root of CSS with the colors and typography provided from the style guide. Afterwards, I set the proper displays/positions for each, careful not to overcowd with unnecessary inputs. Placed all the colors, then margins/padding, followed by hoverings, transitions, opacities and shadows.
+My game plan was first and foremost setting up HTML, and :root of CSS with the colors and typography provided from the style guide. Afterwards, I set the proper displays/positions for each, careful not to overcowd with unnecessary inputs. Placed all the colors, then margins/padding, followed by hoverings, transitions, opacities and shadows.
 
 ### Built with
 
